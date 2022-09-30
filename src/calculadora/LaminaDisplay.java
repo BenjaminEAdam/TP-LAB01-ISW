@@ -16,7 +16,7 @@ public class LaminaDisplay extends JPanel{
 		display.setEnabled(false);
 		display.setFont(display.getFont().deriveFont(75f));
 		display.setHorizontalAlignment(JTextField.RIGHT);
-		JButton imprimirResultado = new JButton("Imprimir resultado");
+		JButton imprimirResultado = new JButton("Imprimir resultado copado");
 		ImprimirResultado oyenteBotonImprimir = new ImprimirResultado();
 		imprimirResultado.addActionListener(oyenteBotonImprimir);
 		EscribirNumeros oyenteNumeros = new EscribirNumeros(display);

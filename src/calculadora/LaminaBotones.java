@@ -15,7 +15,7 @@ public class LaminaBotones extends JPanel{
 		JButton dos = new JButton("2");
 		JButton tres = new JButton("3");
 		JButton cuatro = new JButton("4");
-		JButton cinco = new JButton("cinco");
+		JButton cinco = new JButton("5co");
 		JButton seis = new JButton("6");
 		JButton siete = new JButton("7");
 		JButton ocho = new JButton("8");
